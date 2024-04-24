@@ -1,5 +1,7 @@
-name: "JFrog Integration Example"
-on: push
+name: JFrog Integration Example
+on:
+  release:
+    types: [published]
 
 jobs:
   build:
