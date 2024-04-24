@@ -1,5 +1,12 @@
 
 
+## [0.2.3](https://github.com/Eswar-Oruganti/component-lib/compare/0.2.2...0.2.3) (2024-04-24)
+
+
+### Bug Fixes
+
+* made chages to button ([c3e917a](https://github.com/Eswar-Oruganti/component-lib/commit/c3e917a710f84af7ef07f409d629c148b617bd8a))
+
 ## [0.2.2](https://github.com/Eswar-Oruganti/component-lib/compare/0.2.1...0.2.2) (2024-04-24)
 
 
