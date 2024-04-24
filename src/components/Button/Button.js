@@ -1,5 +1,5 @@
 const Button = ({ children, ...props }) => {
-  return <button {...props}>{children}</button>;
+  return <button>{children}</button>;
 };
 
 export default Button;
