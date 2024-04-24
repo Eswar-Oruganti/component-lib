@@ -1,5 +1,12 @@
 
 
+## [0.2.1](https://github.com/Eswar-Oruganti/component-lib/compare/0.2.0...0.2.1) (2024-04-24)
+
+
+### Bug Fixes
+
+* fixed issues in input compnent ([bd7786a](https://github.com/Eswar-Oruganti/component-lib/commit/bd7786a21fcf6fd4dea33f329d7227c73948faaa))
+
 ## [0.2.0](https://github.com/Eswar-Oruganti/component-lib/compare/0.1.0...0.2.0) (2024-04-24)
 
 
