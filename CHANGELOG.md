@@ -1,5 +1,12 @@
 
 
+## [0.2.2](https://github.com/Eswar-Oruganti/component-lib/compare/0.2.1...0.2.2) (2024-04-24)
+
+
+### Bug Fixes
+
+* made cchanges to github workflow ([b7e9921](https://github.com/Eswar-Oruganti/component-lib/commit/b7e992157b3cca4abad4713680b03c94e17de408))
+
 ## [0.2.1](https://github.com/Eswar-Oruganti/component-lib/compare/0.2.0...0.2.1) (2024-04-24)
 
 
