@@ -10,7 +10,8 @@
   "scripts": {
     "dev": "rollup -c --watch",
     "build": "rollup -c",
-    "prepare": "husky"
+    "prepare": "husky",
+    "commitlint": "commitlint --edit"
   },
   "author": "",
   "license": "ISC",
